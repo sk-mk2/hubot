@@ -1,0 +1,6 @@
+bin/
+.editorconfig
+.hubot_history
+Procfile
+README.md
+package.json
