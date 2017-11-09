@@ -1,4 +1,6 @@
 language: node_js
 
 sudo: enabled
-    
+
+notifications: 
+    slack: hykw-lab:ZhC2kmnoq69XvWSnBsRJ0e4i
